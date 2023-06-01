@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: ro;
+}
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    
+
+}
+
+.logo {
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #f9faf8
+    
+}
