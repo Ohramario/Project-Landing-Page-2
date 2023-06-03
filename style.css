@@ -56,6 +56,7 @@ a {
     background-color: #1f2937;
     padding-left: 300px;
     padding-right: 300px;
+    
 }
 
 .hero-image {
@@ -89,5 +90,69 @@ a {
 
 .hero-left{
     margin-right: 270px;
+}
+
+.images {
+    display: flex;
+    
     
 }
+
+.image {
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+}
+
+.picture {
+    height: 150px;
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+
+}
+
+.illustrations {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+p {
+
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+
+}
+
+.quote{
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+
+   
+    margin-top: 30px;
+   
+    background-color: #E5E7EB;
+    
+}
+
+.quote-container {
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic ;
+
+}
+.attribution {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: flex-end;
+
+}
+
+
